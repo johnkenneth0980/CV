@@ -1,0 +1,33 @@
+html{
+    background-color: gray;
+}
+.prof{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-right: 1100px;
+    height: 500px;
+    grid: 50px;
+    grid-template-columns: 1fr, 2fr;
+    background-color: rgb(97, 102, 97);
+}
+.prof img{
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+.prof p{
+    margin: 10px;
+}
+.right{
+    position: relative;
+    background-color: white;
+    padding: 300px;
+    margin-top: -151px;
+    margin-left: 250px;
+    margin-right: 100px;
+    height: 500px;
+
+}
+
