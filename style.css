@@ -44,4 +44,27 @@ h3{
     border-radius: 150px;
 }
 
+button {
+    padding: 15px 30px;
+    font-size: 16px;
+    background-color: #526853;
+    color: rgb(7, 6, 6);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
 
+  button:hover {
+    background-color: #1c381e;
+  }
+
+  button:active {
+    background-color: #3cad3f;
+  }
+  P{
+    color: black;
+  }
+
+
+ 
